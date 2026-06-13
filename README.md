@@ -46,5 +46,5 @@ Profissional do setor financeiro especializado em **Análise de Risco de Crédit
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Douglas-Gomes-B&show_icons=true&theme=radium&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Douglas-Gomes-B&theme=radium&locale=pt_BR" alt="Estatísticas do GitHub" />
 </p>
