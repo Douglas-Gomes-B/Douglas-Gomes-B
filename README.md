@@ -42,3 +42,9 @@ Profissional do setor financeiro especializado em **Análise de Risco de Crédit
 - [LinkedIn](https://www.linkedin.com/in/douglas-gomes-24b59939/)
 - [E-mail](mailto:douglasax3@gmail.com)
 
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Douglas-Gomes-B&show_icons=true&theme=radium&locale=pt-br" alt="Estatísticas do GitHub" />
+</p>
