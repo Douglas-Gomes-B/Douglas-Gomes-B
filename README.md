@@ -40,13 +40,13 @@ Profissional do setor financeiro especializado em **Análise de Risco de Crédit
 
 ## 🎓 Certificações e Formação Contínua
 
-* **Formação Multidisciplinar em Tecnologia, Dados e Negócios** — Alura & UniBB[cite: 1]
-  * **Período:** Maio de 2021 a Maio de 2026[cite: 1]
+* **Formação Multidisciplinar em Tecnologia, Dados e Negócios** — Alura & UniBB
+  * **Período:** Maio de 2021 a Maio de 2026
   * **Carga Horária de Destaque:**
-    * **Ciência de Dados & Engenharia:** Mais de 400 horas dedicadas a Data Science[cite: 1]. Formação profunda em Python para Data Science (83h), tratando dados com Pandas, NumPy e integrando análises estatísticas e geoespaciais[cite: 1]. Experiência com Engenharia de Dados (82h) e SQL[cite: 1].
-    * **Machine Learning & Inteligência Artificial:** Trilhas de Machine Learning Avançada (90h) e Inteligência Artificial (83h)[cite: 1]. Foco prático em classificação com SKLearn, Deep Learning, MLOps, NLP e Engenharia de Prompt aplicada a IA Generativa[cite: 1].
-    * **Business Intelligence:** Mais de 100 horas em Power BI, DAX, processos de ETL e construção de Data Warehouses[cite: 1].
-    * **Inovação, Gestão & Agilidade:** Mais de 500 horas de aprofundamento em Inovação & Gestão[cite: 1]. Domínio de frameworks ágeis (Scrum, Kanban)[cite: 1], transformação digital e preparação para certificações de mercado (PMI-ACP, PMP/CAPM)[cite: 1].
+    * **Ciência de Dados & Engenharia:** Mais de 400 horas dedicadas a Data Science. Formação profunda em Python para Data Science (83h), tratando dados com Pandas, NumPy e integrando análises estatísticas e geoespaciais. Experiência com Engenharia de Dados (82h) e SQL.
+    * **Machine Learning & Inteligência Artificial:** Trilhas de Machine Learning Avançada (90h) e Inteligência Artificial (83h). Foco prático em classificação com SKLearn, Deep Learning, MLOps, NLP e Engenharia de Prompt aplicada a IA Generativa.
+    * **Business Intelligence:** Mais de 100 horas em Power BI, DAX, processos de ETL e construção de Data Warehouses.
+    * **Inovação, Gestão & Agilidade:** Mais de 500 horas de aprofundamento em Inovação & Gestão. Domínio de frameworks ágeis (Scrum, Kanban), transformação digital e preparação para certificações de mercado (PMI-ACP, PMP/CAPM).
   * 📄 [Visualizar Certificado Completo](https://github.com/Douglas-Gomes-B/certificadosAlura/blob/main/certificados_alura_junho_2026.pdf)
 
 ### 📫 Como me encontrar
