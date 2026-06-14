@@ -42,6 +42,11 @@ Profissional do setor financeiro especializado em **Análise de Risco de Crédit
 - [LinkedIn](https://www.linkedin.com/in/douglas-gomes-24b59939/)
 - [E-mail](mailto:douglasax3@gmail.com)
 
+## 🎓 Certificações e Formação Contínua
+
+* **[Nome do Curso/Trilha]** — Alura & UniBB 
+  * **Foco:** [Ex: Construção de Agentes de IA, Análise de Risco com Pandas e Scikit-learn, etc.]
+  * 📄 [Visualizar Certificado](https://github.com/Douglas-Gomes-B/certificadosAlura/blob/main/certificados_alura_junho_2026.pdf)
 
 ### 📊 Estatísticas
 
