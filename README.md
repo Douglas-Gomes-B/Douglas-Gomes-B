@@ -38,10 +38,6 @@ Profissional do setor financeiro especializado em **Análise de Risco de Crédit
 **BI e Produtividade:**
 - Power BI, Microsoft Office, SharePoint
 
-### 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/douglas-gomes-24b59939/)
-- [E-mail](mailto:douglasax3@gmail.com)
-
 ## 🎓 Certificações e Formação Contínua
 
 * **Formação Multidisciplinar em Tecnologia, Dados e Negócios** — Alura & UniBB[cite: 1]
@@ -52,6 +48,10 @@ Profissional do setor financeiro especializado em **Análise de Risco de Crédit
     * **Business Intelligence:** Mais de 100 horas em Power BI, DAX, processos de ETL e construção de Data Warehouses[cite: 1].
     * **Inovação, Gestão & Agilidade:** Mais de 500 horas de aprofundamento em Inovação & Gestão[cite: 1]. Domínio de frameworks ágeis (Scrum, Kanban)[cite: 1], transformação digital e preparação para certificações de mercado (PMI-ACP, PMP/CAPM)[cite: 1].
   * 📄 [Visualizar Certificado Completo](https://github.com/Douglas-Gomes-B/certificadosAlura/blob/main/certificados_alura_junho_2026.pdf)
+
+### 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/douglas-gomes-24b59939/)
+- [E-mail](mailto:douglasax3@gmail.com)
 
 ### 📊 Estatísticas
 
